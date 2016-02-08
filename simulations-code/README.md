@@ -1,7 +1,7 @@
 ## Numerical simulations files
 
 --------------------------------------------------
-First install the package 'ftsspec', available on [CRAN](https://cran.r-project.org/web/packages/ftsspec/index.html), e.g.  through 
+First install the package 'ftsspec', available on [CRAN](https://cran.r-project.org/web/packages/ftsspec/index.html), e.g.  through
 *install.packages('ftsspec')* in R, or by downloading the binaries and installing them manually.
 --------------------------------------------------
 
