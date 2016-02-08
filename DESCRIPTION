@@ -1,6 +1,6 @@
 Package: ftsspec
 Title: Spectral Density Estimation and Comparison for Functional Time Series
-Version: 1.0.0.9000
+Version: 1.0.0.9001
 Authors@R: person("Shahin", "Tavakoli", email = "s.tavakoli@statslab.cam.ac.uk", role = c("aut", "cre"))
 Author: Shahin Tavakoli [aut, cre]
 Maintainer: Shahin Tavakoli <s.tavakoli@statslab.cam.ac.uk>
