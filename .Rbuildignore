@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^R/bak$
+^cran-comments.md$
+^ftsspec.Rproj$
+^R/TODO$
