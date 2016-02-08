@@ -1,8 +1,6 @@
 ## Numerical simulations files
 
---------------------------------------------------
 First install the package 'ftsspec', available on [CRAN](https://cran.r-project.org/web/packages/ftsspec/index.html), e.g.  through *install.packages('ftsspec')* in R, or by downloading the binaries and installing them manually.
---------------------------------------------------
 
 * *grid-density.R*:  runs the numerical simulations for the effect of the gridsize
   for a given set of parameters (to be specified within the file). The sets of
